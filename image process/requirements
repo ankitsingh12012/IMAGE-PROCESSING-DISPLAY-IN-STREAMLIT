@@ -1,0 +1,8 @@
+!pip install streamlit==1.40.0
+import streamlit as st
+from streamlit_drawable_canvas import st_canvas
+import numpy as np
+import cv2
+import math
+from PIL import Image
+import pandas as pd
